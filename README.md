@@ -31,8 +31,7 @@ https://github.com/user-attachments/assets/66bb9934-1b4a-4ded-9aa6-f4a8beb06986
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/m4rcu5o/Burn-ATA-Solana.git
-cd Burn-ATA-Solana
+git clone https://github.com//0xRustPro//solana-volume-bot.git
 ```
 ### 2. Clone the Repo
 Fill out .env 
@@ -75,6 +74,6 @@ yarn dev
 
 ## 🎫 Contact
 
-[Telegram](https://t.me/pup5ol)
+[Telegram] (https://t.me/Rust0x_dev)
 
 ### Please don't forget give ✨Star✨ and 🎞Fork🎞. 😊
